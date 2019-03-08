@@ -1,5 +1,6 @@
 layout: stacked
 style: dark
+url: https://gaahrdner.dev
 
 plugins:
   - jekyll-octicons
